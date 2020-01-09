@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleBrowser</string>
+    <string name="web">web</string>
+    <string name="google">https://www.google.com/</string>
+</resources>
